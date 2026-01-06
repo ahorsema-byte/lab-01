@@ -2,16 +2,17 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** Anica Horseman
+- **CCID:** ahorsema
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
-
+https://www.w3schools.com/java/java_inheritance.asp
+https://www.w3schools.com/java/java_interface.asp
+https://stackoverflow.com/questions/65975264/cannot-resolve-symbol-add-while-adding-class-object-to-an-arraylist
 ## Verbal Collaboration
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| `student`    | `student` |
+| Anica Horseman    | ahorsema |
 | `<Add more>` | `<CCID>`  |
